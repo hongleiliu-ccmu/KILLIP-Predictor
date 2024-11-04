@@ -8,4 +8,5 @@ Interpretable AI Model for Predicting Heart Failure Severity after AMI Using Mul
 ## Link
 - **View Project**: [[Live Demo]https://prediction-killip-gby.streamlit.app/](https://prediction-killip-gby.streamlit.app/)
 - **Screenshot**:
-  ![Screenshot of the project](screenshot/screenshot_2.png)
+  - ![Screenshot 1 of the project](screenshot/screenshot_2.1.png)
+  - ![Screenshot 2 of the project](screenshot/screenshot_2.2.png)
